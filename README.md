@@ -1,21 +1,20 @@
 ## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
 
- <div align="center">Intel Unnati 2024 </div>
+<div align="center">Intel Unnati 2024 </div>
 ### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
+![image](https://github.com/user-attachments/assets/4c3fa299-8db7-4706-8b4b-429a6b221426)
+![image](https://github.com/user-attachments/assets/810c71cd-e310-435e-aade-255dff3c8bc9)
 
-
-![[Pasted image 20240714191730.png]] 
-![[Pasted image 20240714191835.png]]
 ## <div align="center">Documentation</div>
 <details open>
 <summary>Install</summary>
 
-Clone repo and install [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) 
+Clone repo and install [requirements.txt](https://github.com/mopasha1/IntelUnnati2024TTS/blob/main/requirements.txt) 
 
 ```bash
-git clone https://github.com/mopasha/intelunnati2024  # clone
-cd intelunnati2024
+git clone https://https://github.com/mopasha1/IntelUnnati2024TTS  # clone
+cd IntelUnnati2024TTS
 pip install -r requirements.txt  # install
 ```
 </details>
@@ -23,10 +22,10 @@ pip install -r requirements.txt  # install
   
 <details open>
 <summary>Running the application</summary>
-To test out the entire project after installation, run the following
-```bash
+To test out the entire project after installation, run the following:
+ 
+```
 cd streamlit
-
 ```
 In the MainDashboard and Parking Data Insights generation file, replace the key with your Google Gemini API Key.
 
@@ -43,12 +42,15 @@ To test out the CLI mode for the model inference
 
 Example of License plate evaluation
 
-![[license_plate_new-ezgif.com-video-to-gif-converter.gif]]
+![license_plate_new-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ea30c052-ee6c-44ca-80d1-deb7fa5d5011)
+
 Example of insight generation
 
-![[record_gif-ezgif.com-video-to-gif-converter.gif]]
+![record_gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/510720a5-94f3-4d45-8738-f3e00f5e322e)
+
 Example of parking lot occupancy monitoring:
-![[parking_lot_gif-ezgif.com-video-to-gif-converter.gif]]
+![parking_lot_gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f973a823-1929-4f82-818c-227c56b39307)
+
 ### The Team
 
 1. Mohammed Moiz Pasha - [21311A6601@sreenidhi.edu.in](mailto:21311A6601@sreenidhi.edu.in), CSE-AI&ML
@@ -62,7 +64,7 @@ Example of parking lot occupancy monitoring:
 5. Gugulothu Vijaya - [21311A6643@sreenidhi.edu.in](mailto:21311A6643@sreenidhi.edu.in), CSE-AI&ML
 
 ### Credits 
-Huge thanks to our internal mentor, Dr. T.V. Rajinkanth sir, Professor & Head, Department of CSE-AI&ML, for his support in this project.
+Huge thanks to our internal mentor,** Dr. T.V. Rajinkanth sir**, Professor & Head, Department of CSE-AI&ML,SNIST, for his support in this project.
 
 This project also would not have been possible without the support of our external mentor, **Archana Vaidheeswaran**, who guided us throughout the duration of this project. 
 
