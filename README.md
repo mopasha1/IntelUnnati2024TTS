@@ -7,6 +7,9 @@
 
 ### <div align="center">Intel Unnati Industrial Training Program 2024 </div>
 
+
+### <div align="center">Deparment of CSE-AIML, Sreenidhi Insitute of Science and Technology, Hyderabad </div>
+
 ### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
 ## <div align="center">Documentation</div>
