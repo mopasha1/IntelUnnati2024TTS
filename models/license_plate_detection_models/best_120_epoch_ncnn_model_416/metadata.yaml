@@ -1,0 +1,14 @@
+description: Ultralytics best_120_epoch model trained on /kaggle/input/anprdataset/anpr/data.yaml
+author: Ultralytics
+date: '2024-06-29T21:58:11.684868'
+version: 8.2.38
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 416
+- 416
+names:
+  0: License-Plate
