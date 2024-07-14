@@ -1,7 +1,7 @@
 <div align="center">
   <p>
       <img width="100%" src="https://github.com/user-attachments/assets/92c331ba-827a-49f6-a3fb-338523cea8f4"></a></p>   
-  
+</div>
   ## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
 
 <div align="center">Intel Unnati Industrial Training Program 2024 </div>
