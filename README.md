@@ -1,10 +1,8 @@
 ## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
 
 <div align="center">Intel Unnati 2024 </div>
-### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
-![image](https://github.com/user-attachments/assets/4c3fa299-8db7-4706-8b4b-429a6b221426)
-![image](https://github.com/user-attachments/assets/810c71cd-e310-435e-aade-255dff3c8bc9)
+### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
 ## <div align="center">Documentation</div>
 <details open>
