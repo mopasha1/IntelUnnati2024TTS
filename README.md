@@ -49,6 +49,7 @@ Example of insight generation
 ![record_gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/510720a5-94f3-4d45-8738-f3e00f5e322e)
 
 Example of parking lot occupancy monitoring:
+
 ![parking_lot_gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f973a823-1929-4f82-818c-227c56b39307)
 
 ### The Team
@@ -64,7 +65,7 @@ Example of parking lot occupancy monitoring:
 5. Gugulothu Vijaya - [21311A6643@sreenidhi.edu.in](mailto:21311A6643@sreenidhi.edu.in), CSE-AI&ML
 
 ### Credits 
-Huge thanks to our internal mentor,** Dr. T.V. Rajinkanth sir**, Professor & Head, Department of CSE-AI&ML,SNIST, for his support in this project.
+Huge thanks to our internal mentor, **Dr. T.V. Rajinkanth sir** , Professor & Head, Department of CSE-AI&ML,SNIST, for his support in this project.
 
 This project also would not have been possible without the support of our external mentor, **Archana Vaidheeswaran**, who guided us throughout the duration of this project. 
 
