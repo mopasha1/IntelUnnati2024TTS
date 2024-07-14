@@ -2,9 +2,10 @@
   <p>
       <img width="100%" src="https://github.com/user-attachments/assets/92c331ba-827a-49f6-a3fb-338523cea8f4"></a></p>   
 </div>
-  ## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
+  
+## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
 
-<div align="center">Intel Unnati Industrial Training Program 2024 </div>
+### <div align="center">Intel Unnati Industrial Training Program 2024 </div>
 
 ### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
@@ -44,6 +45,15 @@ python model_inference.py [arguments_list]
 usage: model_inference.py [-h] (-i IMAGE | -v VIDEO) [-show SHOW] [--output OUTPUT]
 ```
 
+CLI for the parking space detection can also be found in the same directory: 
+```
+python parking_inference.py [arguments_list]
+
+usage: parking_inference.py [-h] (-i IMAGE | -v VIDEO) [-show SHOW] [--output OUTPUT]
+```
+
+Code for insights generation is present in the "streamlit" folder
+
 </details>
 
 ### Details
@@ -57,7 +67,8 @@ The project contains the following:
 6. **streamlit** - The code for running the model inference, parking space detection and insights generation modules. Part of the main source code of the project. 
 7. **test_data** - Test images and videos for testing the license plate and parking detection models
 8. **requirements.txt** - The requirements file, containing all dependencies for the project.
-### For complete details about implementation, methodology and results, please refer the project report here
+9. 
+### For complete details about implementation, methodology and results, along with visualizations, please refer the project report [here](https://github.com/mopasha1/IntelUnnati2024TTS/blob/main/reports/Project_Report_and_Appendix.pdf)
 
 
 Example of License plate evaluation
