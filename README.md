@@ -67,7 +67,7 @@ The project contains the following:
 6. **streamlit** - The code for running the model inference, parking space detection and insights generation modules. Part of the main source code of the project. 
 7. **test_data** - Test images and videos for testing the license plate and parking detection models
 8. **requirements.txt** - The requirements file, containing all dependencies for the project.
-9. 
+
 ### For complete details about implementation, methodology and results, along with visualizations, please refer the project report [here](https://github.com/mopasha1/IntelUnnati2024TTS/blob/main/reports/Project_Report_and_Appendix.pdf)
 
 
