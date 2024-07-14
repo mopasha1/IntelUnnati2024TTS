@@ -1,6 +1,10 @@
-## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
+<div align="center">
+  <p>
+      <img width="100%" src="https://github.com/user-attachments/assets/92c331ba-827a-49f6-a3fb-338523cea8f4"></a></p>   
+  
+  ## <div align="center">VEHICLE MOVEMENT ANALYSIS AND INSIGHT GENERATION USING EDGE AI - TEAM TECHSMASHERS  🚀</div>
 
-<div align="center">Intel Unnati 2024 </div>
+<div align="center">Intel Unnati Industrial Training Program 2024 </div>
 
 ### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
@@ -31,10 +35,28 @@ Running the Streamlit app
 ```
 python -m streamlit run MainDashboard.py
 ```
-To test out the CLI mode for the model inference
+To test out the CLI mode for the model inference, run the following code
+
+```
+cd src
+python model_inference.py [arguments_list]
+
+usage: model_inference.py [-h] (-i IMAGE | -v VIDEO) [-show SHOW] [--output OUTPUT]
+```
+
 </details>
 
+### Details
 
+The project contains the following:
+1. **data** - Links to the datasets used for training, validation and testing purposes
+2. **models** - The trained models for parking space detection, license plate detection, and license plates OCR. Also contains the model formats optimized for Edge AI inference, in ONNX, OpenVINO and NCNN formats
+3. **notebooks** - Contains the notebooks used for model training and export.
+4. **scripts** - Various miscellaneous scripts for preprocessing, data generation, test data sampling for export, etc.
+5. **src** - The CLI based code for model inference of the parking space and license plate models.
+6. **streamlit** - The code for running the model inference, parking space detection and insights generation modules. Part of the main source code of the project. 
+7. **test_data** - Test images and videos for testing the license plate and parking detection models
+8. **requirements.txt** - The requirements file, containing all dependencies for the project.
 ### For complete details about implementation, methodology and results, please refer the project report here
 
 
