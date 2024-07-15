@@ -12,7 +12,7 @@
 
 ### A powerful edge AI based tool for vehicle entry and exit checking, parking lot occupancy evaluation and insight generation. 
 
-## <div align="center">Documentation</div>
+## <div align="center">Documentation 📄</div>
 <details open>
 <summary>Install</summary>
 
@@ -56,10 +56,11 @@ usage: parking_inference.py [-h] (-i IMAGE | -v VIDEO) [-show SHOW] [--output OU
 ```
 
 Code for insights generation is present in the "streamlit" folder
+Please refer to the README files in each of the folders for more information.
 
 </details>
 
-### Details
+### Details 🔎
 
 The project contains the following:
 1. **data** - Links to the datasets used for training, validation and testing purposes
@@ -70,6 +71,18 @@ The project contains the following:
 6. **streamlit** - The code for running the model inference, parking space detection and insights generation modules. Part of the main source code of the project. 
 7. **test_data** - Test images and videos for testing the license plate and parking detection models
 8. **requirements.txt** - The requirements file, containing all dependencies for the project.
+
+### Features 🧠:
+1. **Hyper-fast edge device inference:** Our models for License Plate processing and parking lot detection achive a combined average inference speed of just 59.38 ms on a Ryzen 5 CPU due to the use of specialized LPRNet and quantized YOLOv8 models, making them extremly fast compared to other alternatives. 
+2. **Modular design:** The license plate detection models, the parking occupancy monitoring models and the insights engine are modular and can be used separately or in conjunction with one another
+3. **Large variety of insights:** Our project delivers many different types of insights, including visualizations in the form of bar charts, line charts, etc., metrics for comparision and LLM-powered insights for interactive chat as well.
+4. **Robust:** The models were all trained on large and diverse datasets, each with upwards of ~20,000 images, making them robust and accurate in detecting even outliers.
+
+### Objectives achieved ✅: 
+
+1. Near-real time monitoring of parking occupancy, and vehicle movement capture and inference.
+2. Identification of authorized and unauthorized vehicles coming into the campus
+3. Frequency analysis and pattern identification of both parking occupancy and incoming/outgoing vehicles
 
 ### For complete details about implementation, methodology and results, along with visualizations, please refer the project report [here](https://github.com/mopasha1/IntelUnnati2024TTS/blob/main/reports/Project_Report_and_Appendix.pdf)
 
@@ -86,7 +99,7 @@ Example of parking lot occupancy monitoring:
 
 ![parking_lot_gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f973a823-1929-4f82-818c-227c56b39307)
 
-### The Team
+### The Team ✨
 
 1. Mohammed Moiz Pasha - [21311A6601@sreenidhi.edu.in](mailto:21311A6601@sreenidhi.edu.in), CSE-AI&ML
 
@@ -98,7 +111,7 @@ Example of parking lot occupancy monitoring:
 
 5. Gugulothu Vijaya - [21311A6643@sreenidhi.edu.in](mailto:21311A6643@sreenidhi.edu.in), CSE-AI&ML
 
-### Credits 
+### Credits 🎓
 Huge thanks to our internal mentor, **Dr. T.V. Rajinkanth sir** , Professor & Head, Department of CSE-AI&ML,SNIST, for his support in this project.
 
 This project also would not have been possible without the support of our external mentor, **Archana Vaidheeswaran**, who guided us throughout the duration of this project. 
