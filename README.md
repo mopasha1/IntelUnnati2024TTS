@@ -99,6 +99,42 @@ Example of parking lot occupancy monitoring:
 
 ![parking_lot_gif-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f973a823-1929-4f82-818c-227c56b39307)
 
+
+
+### Deployed application screens - More examples
+
+#### License Plate detection - Image (Real - life images used)
+
+![image](https://github.com/user-attachments/assets/4d5b7f86-e4b4-4436-bb9f-c261ce86e633)
+
+![image](https://github.com/user-attachments/assets/efe90388-23aa-40a7-82fc-5876dd3d14f9)
+
+
+### License Plate Detection - Video feed
+
+![2024-07-1523-49-19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/676ee20e-572b-4788-b401-feef658626bb)
+
+
+### Parking lot - video feed
+
+![image](https://github.com/user-attachments/assets/908bbdfd-7d6d-46a4-b144-b514bb55aaeb)
+
+### Parking lot - Insights
+
+![image](https://github.com/user-attachments/assets/96311bd2-895e-4d97-844e-620cfefddb27)
+
+
+
+### Vehicle movement analysis - Insights
+![image](https://github.com/user-attachments/assets/c137bfdc-208f-430e-9a33-e6f17275c6f8)
+
+![image](https://github.com/user-attachments/assets/5b9d5df0-452c-4488-bcb7-d58e4ef6258b)
+![image](https://github.com/user-attachments/assets/e4b78a0a-c5a6-4fe9-bc36-7655277cf22a)
+
+
+
+
+
 ### The Team ✨
 
 1. Mohammed Moiz Pasha - [21311A6601@sreenidhi.edu.in](mailto:21311A6601@sreenidhi.edu.in), CSE-AI&ML
