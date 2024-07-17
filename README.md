@@ -58,6 +58,8 @@ usage: parking_inference.py [-h] (-i IMAGE | -v VIDEO) [-show SHOW] [--output OU
 Code for insights generation is present in the "streamlit" folder
 Please refer to the README files in each of the folders for more information.
 
+Code has been linted using the [Ruff](https://docs.astral.sh/ruff/) linter for readability.
+
 </details>
 
 ### Details 🔎
